@@ -133,22 +133,5 @@ $RECYCLE.BIN/
 _NCrunch*
 
 # Remove obj folder
-crudAPI/obj/
-crudAPI/bin/
-crudAPI/obj/crudAPI.csproj.nuget.dgspec.json
-crudAPI/obj/crudAPI.csproj.nuget.g.props
-crudAPI/obj/crudAPI.csproj.nuget.g.targets
-crudAPI/obj/project.assets.json
-crudAPI/obj/Debug/netcoreapp3.1/crudAPI
-crudAPI/obj/Debug/netcoreapp3.1/crudAPI.assets.cache
-crudAPI/obj/Debug/netcoreapp3.1/crudAPI.csproj.FileListAbsolute.txt
-crudAPI/obj/Debug/netcoreapp3.1/crudAPI.csprojAssemblyReference.cache
-crudAPI/obj/Debug/netcoreapp3.1/crudAPI.dll
-crudAPI/obj/Debug/netcoreapp3.1/crudAPI.pdb
-crudAPI/obj/Debug/netcoreapp3.1/project.razor.json
-crudAPI/bin/Debug/netcoreapp3.1/appsettings.Development.json
-crudAPI/bin/Debug/netcoreapp3.1/crudAPI
-crudAPI/bin/Debug/netcoreapp3.1/crudAPI.deps.json
-crudAPI/bin/Debug/netcoreapp3.1/crudAPI.dll
-crudAPI/bin/Debug/netcoreapp3.1/crudAPI.pdb
-crudAPI/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+obj/
+bin/
