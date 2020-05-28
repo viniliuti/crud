@@ -12,5 +12,12 @@ namespace crudAPI.Services
 
             return new Random().Next();
         }
+
+        public async Task<string> Get(string filter)
+        {
+            await Task.Delay(1);
+
+            return "Oi bebe";
+        }
     }
 }

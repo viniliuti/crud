@@ -4,6 +4,7 @@ namespace Abstractions.Services
 {
     public interface IUserServices
     {
-        public Task<int> Get();
+        Task<int> Get();
+        Task<string> Get(string filter);
     }
 }
